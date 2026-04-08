@@ -1,5 +1,5 @@
 # KeyLogger
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/anish-agrahari/KeyLogger)
+
 
 A simple Python-based keylogger designed for educational purposes. This script captures keyboard inputs and saves them with timestamps to a local file.
 
